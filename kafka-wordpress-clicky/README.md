@@ -13,7 +13,7 @@ Giả sử rằng bạn đã đăng ký một tài khoản Clicky.com cho một 
 
 #### Bước 1: Cài đặt Clicky plugin cho Wordpress
 
-Clicky plugin cho Wordpress có tên là **Clicky Analitics**.
+Clicky plugin cho Wordpress có tên là **Clicky Analytics**.
 
 1. Open Menu: Plugin -> Add new 
 2. Nhập: Clicky Analytics
@@ -106,4 +106,4 @@ Sau khi chạy kafka-wordpress-clicky docker image, bạn hãy open Consumer ter
 
 ## Tham khảo
 
-Bài viết được tham khảo từ seri tutorial [Kafka Tutorial for Fast Data Architecture](https://dzone.com/articles/kafka-tutorial-for-fast-data-architecture)
+Bài viết được tham khảo từ tutorial serie [Kafka Tutorial for Fast Data Architecture](https://dzone.com/articles/kafka-tutorial-for-fast-data-architecture)
